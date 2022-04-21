@@ -1,2 +1,3 @@
 # Projeto-Interface-da-Netflix
-👨‍💻 Teste
+- Tamanho das imagens verticais: 440x660
+- Tamanho das imagens horizontais: 1920x1080
