@@ -38,3 +38,49 @@ color: #eee;
 .menu a:hover{
   color: #ccc;
 }
+.banner{
+  width: 100%;
+  height: 80vh;
+  background:url('img/capa-house.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 80vh;
+  display:flex;
+  align-items:flex-end;
+}
+.btn{
+  padding-left:30px;
+  padding-bottom: 50px;
+  color:#fff;
+}
+.btn button{
+  background-color:#fff;
+  font-size:14px;
+  font-weight:bold;
+  padding:10px;
+  border-radius:2px;
+  border:none;
+}
+.btn button img{
+  float:left;
+  margin-right:5px;
+}
+.btn button:hover{
+  background-color:#ddd;
+}
+.btn h1{
+  margin-bottom:10px;
+}
+.btn p{
+  margin-bottom:20px;
+  width:50%;
+  text-align:justify;
+}
+.carrosel-filmes{
+  display:flex;
+  align-items:center;
+  background-color:#000;
+}
+.box-filme{
+  padding:5px;
+  object-fit:cover;
+}
