@@ -11,5 +11,5 @@ Esse projeto tem como objetivo apresentar uma releitura da interface da Netflix.
 
 **Redes sociais:**
 
-[![instagram](img/inst.png)](https://www.instagram.com/aldevan6/)| [![linkedin](img/linkedin.png)](linkedin.com/in/aldevan-silva-54a068149)
+[![instagram](img/inst.png)](https://www.instagram.com/aldevan6/)| [![linkedin](img/linkedin.png)](lhttps://www.linkedin.com/in/aldevan-silva-54a068149/)
 ----------|----------
