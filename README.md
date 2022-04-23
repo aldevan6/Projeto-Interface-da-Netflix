@@ -5,9 +5,11 @@ Esse projeto tem como objetivo apresentar uma releitura da interface da Netflix.
 - Imagen de capa: [TMDB](https://www.themoviedb.org/?language=pt-BR)
 - Biblioteca Jquery: [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 
-![tela01](img/tela01.jpg)
+**Capturas de tela:**
 
-![tela01](img/tela02.jpg)
+![tela01](img/tela01.JPG)
+
+![tela01](img/tela02.JPG)
 
 **Redes sociais:**
 
